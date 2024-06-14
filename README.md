@@ -6,14 +6,14 @@ Welcome to my portfolio website! Here, you can find information about my project
 
 ## Projects
 
-### Next Destination 🌍
+### [Next Destination 🌍](https://github.com/jayasai-gorre/NextDestination)
 A full-stack web application for listing and discovering hotels around the world. Built with Node.js, Express.js, and MongoDB.
 
-### Chat App 💬
+### [Chat App 💬](https://github.com/jayasai-gorre/Mern-Chat-App)
 A real-time messaging application for instant communication between users.
 
-### News Fetcher 📰
-A website that fetches news, uses emojis, and writes short content summaries.
+### [News Website 📰](https://github.com/jayasai-gorre/News-Website)
+A website that allows users to search for news, click to read full articles, and is implemented using an API.
 
 ## Skills
 
