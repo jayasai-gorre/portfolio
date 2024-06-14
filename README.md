@@ -1,5 +1,3 @@
-Got it! Here’s a more concise version of the README with brief descriptions of your projects:
-
 ---
 
 # Portfolio Website
