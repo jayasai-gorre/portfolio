@@ -41,6 +41,6 @@ A website that allows users to search for news, click to read full articles, and
 
 Feel free to reach out to me by filling out the form on the [Contact](contact-page-link) page.
 
-Thank you for visiting my portfolio website!
+Thank you for visiting!
 
 ---
