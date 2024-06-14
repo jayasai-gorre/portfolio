@@ -5,7 +5,8 @@ const Contact = () => {
   return (
     <section id="contact" className={styles.container}>
       <h1 className={styles.sectionTitle}>Contact</h1>
-      <form action="">
+      <form action="https://api.web3forms.com/submit" METHOD="POST">
+      <input type="hidden" name="access_key" value="09606c25-e494-4f51-b4c8-efdc84eaaa1b"></input>
         <div className="formGroup">
           <label htmlFor="name"></label>
           <input
