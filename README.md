@@ -1,8 +1,48 @@
-# React + Vite
+Got it! Here’s a more concise version of the README with brief descriptions of your projects:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to my portfolio website! Here, you can find information about my projects, skills, and how to get in touch with me.
+
+## Projects
+
+### Next Destination 🌍
+A full-stack web application for listing and discovering hotels around the world. Built with Node.js, Express.js, and MongoDB.
+
+### Chat App 💬
+A real-time messaging application for instant communication between users.
+
+### News Fetcher 📰
+A website that fetches news, uses emojis, and writes short content summaries.
+
+## Skills
+
+### Frontend Development
+- HTML ✔️
+- CSS ✔️
+- JavaScript ✔️
+- React ✔️
+- Redux ✔️
+- Tailwind CSS ✔️
+- Bootstrap ✔️
+- Daisy UI ✔️
+
+### Backend Development
+- Node.js ✔️
+- Express ✔️
+- MongoDB ✔️
+- MySQL ✔️
+
+### Version Control
+- Git ✔️
+- GitHub ✔️
+
+## Contact
+
+Feel free to reach out to me by filling out the form on the [Contact](contact-page-link) page.
+
+Thank you for visiting my portfolio website!
+
+---
