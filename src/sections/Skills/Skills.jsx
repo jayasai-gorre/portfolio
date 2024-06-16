@@ -35,6 +35,13 @@ const Skills = () => {
         <div className={styles.skillList}>
            <SkillList src={checkMarkIcon} skill="Git"/>
            <SkillList src={checkMarkIcon} skill="GitHub"/>
+           <SkillList src={checkMarkIcon} skill="Docker"/>
+           <SkillList src={checkMarkIcon} skill="Kubernetes"/>
+        </div>      
+        <div className={styles.skillList}>
+           <SkillList src={checkMarkIcon} skill="Windows"/>
+           <SkillList src={checkMarkIcon} skill="Linux"/>
+           <SkillList src={checkMarkIcon} skill="MacOs"/>
         </div>      
     </section>
   )
