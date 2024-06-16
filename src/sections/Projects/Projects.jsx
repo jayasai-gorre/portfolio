@@ -18,7 +18,7 @@ const Projects = () => {
         />
         
         <ProjectCard
-          link={"https://github.com/jayasai-gorre/Mern-Chat-App"} 
+          link={"https://github.com/jayasai-gorre/ChatApp-MERN"} 
           src={chatApp}
           h3={"Chat App"}
           p={"Real-time Messaging Application"} 
