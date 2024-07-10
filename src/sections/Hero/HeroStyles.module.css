@@ -59,7 +59,7 @@
 
 .colorMode {
     position: absolute;
-    right: 0;
+    right: 0px;
     width: 25px;
 }
 
@@ -68,13 +68,21 @@
 }
 
 .description {
-    max-width: 40vh;
+    padding: 0 50px;
 }
 
 .info {
     display: flex;
     flex-direction: column;
     gap: 20px
+}
+
+@media (width <= 799px) {
+    .colorMode {
+        position: absolute;
+        right: 60px;
+        width: 25px;
+    }
 }
 
 
@@ -89,6 +97,18 @@
             width: 350px;
         }
     }
+
+    .description {
+        max-width: 40vh;
+    }
+}
+
+@media ((width >= 800) AND (width <= 1400)) {
+    .colorMode {
+        position: absolute;
+        right: 30px;
+        width: 25px;
+    }
 }
 
 @media (width >= 1400px) {
@@ -97,6 +117,10 @@
             max-width: 350px;
             width: 400px;
         }
+    }
+
+    .description {
+        max-width: 40vh;
     }
 }
 
